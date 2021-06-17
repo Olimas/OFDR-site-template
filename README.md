@@ -2,7 +2,7 @@
 ```
 https://olimas.github.io/OFDR-site-template/
 ```
-###Technologies used in the project
+### Technologies used in the project
 ```
 BEM, adaptive, cross-browsing, responsive
 ```
